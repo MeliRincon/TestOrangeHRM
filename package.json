@@ -104,6 +104,7 @@
     "is-unicode-supported": "^0.1.0",
     "isexe": "^2.0.0",
     "isstream": "^0.1.2",
+    "js-yaml": "^4.1.0",
     "jsbn": "^0.1.1",
     "json-schema": "^0.4.0",
     "json-stringify-safe": "^5.0.1",
@@ -175,6 +176,7 @@
     "which": "^2.0.2",
     "wrap-ansi": "^7.0.0",
     "wrappy": "^1.0.2",
+    "xlsx": "^0.18.5",
     "yauzl": "^2.10.0"
   },
   "description": ""
