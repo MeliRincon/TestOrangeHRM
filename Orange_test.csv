@@ -1,0 +1,31 @@
+﻿Test Suite - [ Orange HRM];;;;;;;;;;;
+ID_Issue;Key_Issue;Type_Test;Description;Test_Summary;Priority;Precondicion;Data;Action;Result;Result_Img;Test_Status
+Funtional Area: Happy path;;;;;;;;;;;
+1;;Automatic;"•As: a user
+•I want: to enter the OrangeHRM url
+•To: enter my credentials and log in to my account 
+•Since: you are on the homepage
+•When: you enter your credentials and click the ""login"" button 
+• Then: you can log in to the account""";TC- Happy path;2;"•Enter the page
+•Internet connection";OrangeHRM (orangehrmlive.com);Enter URL the Orange HRM;;;
+1;;Automatic;;;;;;Validate Orange HRM logo is visible;The logo must always be visible;;
+1;;Automatic;;;;;;Validate username field is visible;The username field should always be visible;;
+1;;Automatic;;;;;;"Validate that the ""login"" button is visiblet";A label with the page version should appear at the bottom;;
+1;;Automatic;;;;;;Validate footer contains OrangeHRM version text;"The ""login"" button should always be visible";;
+1;;Automatic;;;;;;;;;
+1;;Automatic;;;;;;;;;
+Funtional Area: XXXXXX;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+Funtional Area: XXXXXX;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+Funtional Area: XXXXXX;;;;;;;;;;;
